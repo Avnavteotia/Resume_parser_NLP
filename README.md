@@ -60,27 +60,3 @@ Follow these steps to get your Resume Data Extractor up and running:
 
 The app features custom styling, including a background image and themed UI elements to enhance user experience. You can customize the appearance by editing the CSS in the `app.py` file.
 
-## 🔗 LinkedIn Profiles
-
-Want to connect with the developers? Check out our LinkedIn profiles:
-- [Mahad Zubair](www.linkedin.com/in/mahad-zubair-a07709223)
-- [Shanze Malik](https://www.linkedin.com/in/shanze-malik-4a04b3256/)
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🌟 Acknowledgements
-
-- Special thanks to the Spacy team for their awesome NLP library.
-- Thanks to the Streamlit team for making web app development fun and easy.
-
----
-
-Happy extracting! 🎉🚀
-
-For any queries or support, feel free to open an issue or contact us directly through our LinkedIn profiles. Let's make resume analysis smarter and more fun together!
